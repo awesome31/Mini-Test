@@ -20,7 +20,9 @@ const useLogin = () => {
     setShowPassword(!showPassword);
   };
 
-  const onLoginClick = () => {};
+  const onLoginClick = () => {
+    router.push("/home");
+  };
 
   const onRegisterClick = () => {
     router.push("/register");

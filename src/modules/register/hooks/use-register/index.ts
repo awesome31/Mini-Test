@@ -29,7 +29,9 @@ const useRegister = () => {
     router.push("/login");
   };
 
-  const onRegisterClick = () => {};
+  const onRegisterClick = () => {
+    router.push("/home");
+  };
 
   return {
     onPasswordChange,
