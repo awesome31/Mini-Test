@@ -19,19 +19,6 @@ const config: Config = {
         // ... other font families
       },
     },
-    colors: {
-      primaryBorder: "#35373B",
-      secondaryText: "#7F8084",
-      primaryText: "#FFFFFF",
-      tertiaryText: "#C5C7CA",
-      headingText: "#6B6C70",
-      primaryBlack: "#131319",
-      secondaryBlack: "#27292D",
-      tertiaryBlack: "#191920",
-      secondaryBorder: "#969696",
-      primaryBlue: "#4A96FF",
-      blackRgba2: "rgba(0, 0, 0, 0.8)",
-    },
   },
   plugins: [],
 };
